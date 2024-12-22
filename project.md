@@ -48,7 +48,10 @@ The project comprises several key components that showcase the complete workflow
 
 ### Links Used
 
+- **Kaggle Dataset**: [View Dataset][def]
 - **MLFlow/DagsHub Experiments**: [View Experiments](https://dagshub.com/ramprakashyallavula/Ecommerec/experiments)
 - **Docker Hub Repository**: [View Container](https://hub.docker.com/repository/docker/ramprakashyallavula/fastapi-model/general)
 - **Deployed Model**: [Deployed FastAPI Model](https://e-commerce-517y.onrender.com/docs)
 - **Streamlit App**: [Deployed Streamlit App](https://streamlitt.onrender.com)
+
+[def]: https://www.kaggle.com/datasets/nevildhinoja/e-commerce-sales-prediction-dataset
